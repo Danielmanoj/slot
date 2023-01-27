@@ -117,7 +117,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![OUTPUT](./out.png)
 
 # HTML VALIDATOR
